@@ -142,7 +142,7 @@ p.note { display: none; }
 
 <!-- フッタ -->
 <footer>
-<p>Copyright 2026/03/23 alis @Bangkok</p>
+<p>Copyright 2026/03/23 alis @Utsunomiya, Tochigi</p>
 </footer>
 
 <!--HPにさまざまなJavaScriptを呼び込むための書式-->
